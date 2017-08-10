@@ -1,0 +1,96 @@
+h1 {
+  text-align: center;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p {
+  font-size: 20px;
+  color: darkblue;
+
+}
+
+a {
+  text-decoration: none;
+  color: maroon;
+  font-size: 20px;
+  text-align: center;
+}
+
+table {
+    border: 3px darkblue solid;
+    padding: 10px;
+    margin: auto;
+    font-size: 24px;
+}
+
+td {
+  text-align: center;
+  width: 300px;
+}
+
+th {
+  text-align: center;
+}
+
+a:hover {
+    border-bottom: 2px solid darkblue;
+}
+
+textarea {
+  width: 350px;
+  height: 200px;
+}
+
+.form {
+  width: 30%;
+  margin: auto;
+  text-align: center;
+}
+
+#banner {
+  background-image: url("../Images/banner.jpg");
+  background-attachment: fixed;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#kitchen {
+  width: 600px;
+  margin-left: 325px;
+}
+
+.cap {
+  font-size: 6px;
+  text-align: center;
+}
+.main {
+  margin: auto;
+  padding: 15px;
+  width: 75%;
+  background-color: white;
+  border-radius: 10px;
+  border: 5px solid darkblue;
+  display: block;
+}
+
+.nav {
+   margin: auto;
+   width: 30%;
+   text-align: center;
+}
+
+body {
+    background-color: #990033;
+}
+
+.easter {
+  float: right;
+}
